@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="your-package-name",
+    name="pyWiseTools",
     version="0.1.0",  # Update with your package version
     description="A description of your package",
     author="Your Name",
