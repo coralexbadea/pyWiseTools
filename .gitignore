@@ -6,4 +6,4 @@ build/*
 dist/*
 pyWiseTools.egg-info
 
-pyWiseTools/__pycache__
+**/__pycache__
